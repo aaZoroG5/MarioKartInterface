@@ -12,4 +12,5 @@ public class CoinPile implements Valuable{
     public double getValue(){
         return this.coins;
     }
+
 }
